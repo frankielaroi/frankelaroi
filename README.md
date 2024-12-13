@@ -2,7 +2,7 @@
 
 **🌟 Fullstack Developer | Software Engineer | Computer Science Graduate**  
 🎓 Pursuing Bachelor of Technology in Computer Science at **Koforidua Technical University**  
-🌍 Based in Nungua, Greater Accra Region, Ghana  
+🌍 Based in Accra, Greater Accra Region, Ghana  
 
 ---
 
