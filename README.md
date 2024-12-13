@@ -22,7 +22,7 @@ I thrive on solving complex problems, improving user experiences, and optimizing
 - Optimized application processes with advanced JavaScript frameworks.  
 
 ### **Frontend Developer**  
-**Hepeps IT Solutions Limited** | *Dec 2024 – Present*  
+**[Hepeps IT Solutions Limited](https://hepeps.com)** | *Dec 2024 – Present*  
 - Designed captivating interfaces for web applications.  
 - Focused on maritime education technology solutions.  
 
@@ -30,11 +30,11 @@ I thrive on solving complex problems, improving user experiences, and optimizing
 - Collaborated on UI/UX designs to enhance user experiences.  
 
 ### **Software Engineer**  
-**Regional Maritime University** | *Oct 2024 – Nov 2024*  
+**[Regional Maritime University](https://rmu.edu.gh/)** | *Oct 2024 – Nov 2024*  
 - Developed and deployed software solutions for administrative use.  
 
 ### **Software Engineer**  
-**Afripul Group** | *Jan 2024 – Jun 2024*  
+**[Afripul Group](https://afripulgroup.com/)** | *Jan 2024 – Jun 2024*  
 - Engineered robust backend systems and integrated APIs for scalability.  
 
 ### **IT Technician**  
